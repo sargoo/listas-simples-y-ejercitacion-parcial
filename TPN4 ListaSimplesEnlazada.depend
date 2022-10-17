@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1665982460 source:c:\users\gonzaa\desktop\utn prog-lab\tpn4 listasimplesenlazada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"persona.h"
+
+1663508128 source:c:\users\gonzaa\desktop\utn prog-lab\tpn4 listasimplesenlazada\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1663508024 c:\users\gonzaa\desktop\utn prog-lab\tpn4 listasimplesenlazada\persona.h
+
